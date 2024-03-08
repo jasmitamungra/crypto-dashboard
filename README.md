@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# Crypto Currency Dashboard Frontend Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello All, This is a Crypto currency dashboard project which shows price charts, calculates exchange rates and displays list of top cryptocurrencies according to their market cap. It is created with **React** and **Redux** Javascript libraries, styled component and utilises **CoinGecko's API** for information.
 
-## Available Scripts
+## DEMO LINK
+
+It is deployed using Netlify - https://cryptodashboardbyjasmita.netlify.app/
 
 In the project directory, you can run:
 

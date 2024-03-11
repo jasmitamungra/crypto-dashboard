@@ -1,6 +1,6 @@
 # Crypto Currency Dashboard Frontend Project
 
-Hello All, This is a Crypto currency dashboard project which shows price charts, calculates exchange rates and displays list of top cryptocurrencies according to their market cap. It is created with **React** and **Redux** Javascript libraries, styled component and utilises **CoinGecko's API** for information.
+Hello All, This is a Crypto currency dashboard project which shows price charts, calculates exchange rates and displays list of top cryptocurrencies according to their market cap. It is created with **React** and **Redux** Javascript libraries, styled component and utilize **CoinGecko's API** for information.
 
 ## DEMO LINK
 
